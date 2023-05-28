@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alemian95
 - 👀 I’m interested in Web Application development
 - 🌱 I’m currently learning Docker and Laravel
-- 💞️ I’m looking to collaborate on Laravel Project
+- 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 How to reach me alessandromian95@gmail.com
 
 <!---
